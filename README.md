@@ -5,6 +5,7 @@ A simple JavaScript library to work with date and time zones.
 1. Download the minified version(dtz.min.js) or the original one(dtz.js).
 2. Use the dtz object to call functions!
 
+# Examples
 dtz.getUTCDateTime();//Gives date object in UTC
 
 dtz.getDay().today();//Gives day in words(ex: Mon)
