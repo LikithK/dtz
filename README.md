@@ -1,7 +1,7 @@
 # dtz
 A simple JavaScript library to work with date and time zones.
 
-#How to use?
+# How to use?
 1. Download the minified version(dtz.min.js) or the original one(dtz.js).
 2. Use the dtz object to call functions!
 
