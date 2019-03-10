@@ -6,8 +6,13 @@ How to use?
 2. Use the dtz object to call functions!
 
 dtz.getUTCDateTime();//Gives date object in UTC
+
 dtz.getDay().today();//Gives day in words(ex: Mon)
+
 dtz.getFullDay().tomorrow();//Gives day in words(ex: Wednesday)
+
 dtz.getTimeZoneDateTime(offsetRelativetoUTCInHours);//Gives date object depending on the offset relative to UTC
+
 dtz.getTimeZoneDateTime(-4);//Gives date object UTC-4
+
 dtz.getTimeZoneDateTime(5.5);//Gives date object UTC+530
